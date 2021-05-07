@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/menu_btn_home"
+        android:title="@string/home"/>
+
+    <item android:id="@+id/menu_btn_account"
+        android:title="@string/my_account"/>
+
+    <item android:id="@+id/menu_btn_faq"
+        android:title="@string/faq"/>
+
+    <item android:id="@+id/menu_btn_contact"
+        android:title="@string/contact_us"/>
+
+    <item android:id="@+id/menu_btn_logout"
+        android:title="@string/log_out"/>
+</menu>

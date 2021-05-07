@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="creationvehicule_nombre_vehicule_depart">10</integer>
+    <integer name="id_user">99</integer>
+</resources>
